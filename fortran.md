@@ -3,7 +3,7 @@ Fortran 95/03/08语言具有其语法简单，复数计算以及高维度矩阵�
 
 Windows平台下主流的Fortran编译器有：
 * [Intel Fortran Compiler](https://software.intel.com/en-us/fortran-compilers) 商业软件，性能好，同时也提供[学生版](https://software.intel.com/en-us/parallel-studio-xe/choose-download#students)，拥有edu邮箱即可申请，有效期一年，过期后可重复申请。需要搭配微软的Visual Studio使用才能具备比较好的用户体验，推荐使用[社区版](https://visualstudio.microsoft.com/vs/community/)。
-* [Gfortran]() [GCC]的组成部分之一，开源，性能较好。
+* Gfortran [GCC](gcc.gnu.org/)的组成部分之一，开源，性能较好。
 
 假如只需要一个简单的Fortran开发环境，推荐使用Gfortran和Codeblocks，如果对计算速度有要求，那么可以使用Intel Fortran和Visual Studio。下面简单介绍基于Gfortran和Codeblock的Fortran开发环境搭建过程，主要分为编译器和IDE两部分。
 
