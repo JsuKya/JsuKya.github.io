@@ -1,5 +1,5 @@
 ### Windows平台下配置Fortran开发环境
-Fortran 95/03/08语言具有其语法简单，复数计算以及高维度矩阵的原生支持等特性，因此在科学计算领域依旧发挥着重要作用。本文章主要介绍在Windows平台下搭建Fortran 95/03/08的开发环境。
+Fortran 95/03/08语言具有语法简单，原生支持复数计算及高维度矩阵等特性，因此在科学计算领域依旧发挥着重要作用。本文章主要介绍在Windows平台下搭建Fortran 95/03/08的开发环境。
 
 Windows平台下主流的Fortran编译器有：
 * [Intel Fortran Compiler](https://software.intel.com/en-us/fortran-compilers) 商业软件，性能好，同时也提供[学生版](https://software.intel.com/en-us/parallel-studio-xe/choose-download#students)，拥有edu邮箱即可申请，有效期一年，过期后可重复申请。需要搭配微软的Visual Studio使用才能具备比较好的用户体验，推荐使用[社区版](https://visualstudio.microsoft.com/vs/community/)。
