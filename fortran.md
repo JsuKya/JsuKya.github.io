@@ -41,7 +41,6 @@ Server = http://mirrors.ustc.edu.cn/msys2/msys/$arch
 * mingw-w64-x86_64-arpack (特征值求解库)
 * mingw-w64-x86_64-fftw (FFT库，支持fortran)
 * mingw-w64-x86_64-gsl, mingw-w64-x86_64-fgsl (fgsl为gsl的Fortran接口库)
-* mingw-w64-x86_64-gsl
 
 #### 开发环境IDE
 推荐使用[CBFortran](http://cbfortran.sourceforge.net/)而不是[Codeblocks](http://www.codeblocks.org/)的官方版本，前者提供更多Fortran语言支持。网站下载的是压缩包文件，解压即可直接运行。注意首次打开，需要配置编译器才能正常使用。
