@@ -1,4 +1,4 @@
-<img src="./images/love.jpg" width = "150" alt="Hailing" align=right class="inline"/>
+<img src="./images/love.jpg" width = "150" align = right />
 ### 仨耶因缺思厅 (苟利催婚生死以 岂因药尽趋避之！)
 
 #### 科研相关
