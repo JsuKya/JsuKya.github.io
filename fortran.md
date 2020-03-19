@@ -26,7 +26,7 @@ Server = http://mirrors.ustc.edu.cn/msys2/mingw/x86_64
 ```
 Server = http://mirrors.ustc.edu.cn/msys2/msys/$arch
 ```
-然后打开MSYS的shell执行 pacman -Sy 刷新软件包数据即可。更新源后，可以直接使用pacman安装gfortran编译，具体可在网站 https://packages.msys2.org/search 检索或者使用pacman -Ss命令进行搜索，这里列出Fortran开发必需的包：
+然后打开MSYS的shell执行 pacman -Sy 刷新软件包数据即可。更新源后，可以直接使用pacman安装gfortran编译，具体可在网站<https://packages.msys2.org/search>检索或者使用pacman -Ss命令进行搜索，这里列出Fortran开发必需的包：
 * mingw-w64-x86_64-gcc
 * mingw-w64-x86_64-gcc-fortran
 * mingw-w64-x86_64-gdb (调试器)
