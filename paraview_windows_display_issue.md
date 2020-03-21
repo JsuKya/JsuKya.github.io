@@ -6,7 +6,7 @@
 
 问题描述：打开paraview后选择任意物理量显示云图时，就会出现显示问题，具体可见下图。
 ![](/images/paraview_windows_display_issue/display_issue.png)
-经过Google，得知是Intel显卡导致的问题，具体可见已提交的[issue 1936](https://gitlab.kitware.com/paraview/paraview/issues/19364)。
+经过Google，得知是Intel显卡导致的问题，具体可见[issue 1936](https://gitlab.kitware.com/paraview/paraview/issues/19364)。
 
 解决办法有两个：
 * 使用最新版（nightly）的Paraview.
