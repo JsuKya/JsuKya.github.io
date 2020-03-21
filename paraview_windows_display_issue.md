@@ -9,7 +9,7 @@
 经过Google，得知是Intel显卡导致的问题，具体可见[issue 1936](https://gitlab.kitware.com/paraview/paraview/issues/19364)。
 
 解决办法有两个：
-* 使用最新版（nightly）的Paraview.
+* 升级Intel的显卡到最新版.
 * 使用Nvidia显卡打开Paraview.
   
 我选择了第二种:laughing:，打开Nvidia的控制面板（Win控制面板-查看方式改为大图标-Nvidia控制面板），然后进入管理3D设置将Paraview设置使用N卡打开，具体可见下图。
